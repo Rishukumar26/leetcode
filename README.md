@@ -107,9 +107,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rishukumar26/leetcode/tree/master/0039-combination-sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rishukumar26/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rishukumar26/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1563-stone-game-v](https://github.com/Rishukumar26/leetcode/tree/master/1563-stone-game-v) |
 ## Stack
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishukumar26/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rishukumar26/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,4 +130,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishukumar26/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rishukumar26/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rishukumar26/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
