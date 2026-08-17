@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rishukumar26/leetcode/tree/master/0029-divide-two-integers) |
+| [1563-stone-game-v](https://github.com/Rishukumar26/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Rishukumar26/leetcode/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishukumar26/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Rishukumar26/leetcode/tree/master/0039-combination-sum) |
+| [1563-stone-game-v](https://github.com/Rishukumar26/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Rishukumar26/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rishukumar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishukumar26/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/Rishukumar26/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Rishukumar26/leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Rishukumar26/leetcode/tree/master/0039-combination-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1563-stone-game-v](https://github.com/Rishukumar26/leetcode/tree/master/1563-stone-game-v) |
 <!---LeetCode Topics End-->
