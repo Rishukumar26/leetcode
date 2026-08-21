@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rishukumar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Rishukumar26/leetcode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/Rishukumar26/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Rishukumar26/leetcode/tree/master/0402-remove-k-digits) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rishukumar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishukumar26/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Rishukumar26/leetcode/tree/master/0402-remove-k-digits) |
 | [1386-cinema-seat-allocation](https://github.com/Rishukumar26/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Rishukumar26/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishukumar26/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/Rishukumar26/leetcode/tree/master/0224-basic-calculator) |
+| [0402-remove-k-digits](https://github.com/Rishukumar26/leetcode/tree/master/0402-remove-k-digits) |
 ## Tree
 |  |
 | ------- |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rishukumar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Rishukumar26/leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
