@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Rishukumar26/leetcode/tree/master/0141-linked-list-cycle) |
 | [0290-word-pattern](https://github.com/Rishukumar26/leetcode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Rishukumar26/leetcode/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/Rishukumar26/leetcode/tree/master/0409-longest-palindrome) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishukumar26/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0141-linked-list-cycle](https://github.com/Rishukumar26/leetcode/tree/master/0141-linked-list-cycle) |
 ## String Matching
 |  |
 | ------- |
@@ -196,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Rishukumar26/leetcode/tree/master/0402-remove-k-digits) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Rishukumar26/leetcode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Rishukumar26/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
