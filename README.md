@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/Rishukumar26/leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Rishukumar26/leetcode/tree/master/0299-bulls-and-cows) |
 | [1386-cinema-seat-allocation](https://github.com/Rishukumar26/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rishukumar26/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rishukumar26/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Rishukumar26/leetcode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Rishukumar26/leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rishukumar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/Rishukumar26/leetcode/tree/master/0299-bulls-and-cows) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rishukumar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishukumar26/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/Rishukumar26/leetcode/tree/master/0299-bulls-and-cows) |
 | [2029-stone-game-ix](https://github.com/Rishukumar26/leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
