@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rishukumar26/leetcode/tree/master/0029-divide-two-integers) |
+| [0224-basic-calculator](https://github.com/Rishukumar26/leetcode/tree/master/0224-basic-calculator) |
 | [1563-stone-game-v](https://github.com/Rishukumar26/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Rishukumar26/leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rishukumar26/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishukumar26/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0224-basic-calculator](https://github.com/Rishukumar26/leetcode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Rishukumar26/leetcode/tree/master/0290-word-pattern) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rishukumar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishukumar26/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rishukumar26/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0224-basic-calculator](https://github.com/Rishukumar26/leetcode/tree/master/0224-basic-calculator) |
 ## Tree
 |  |
 | ------- |
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rishukumar26/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Rishukumar26/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
