@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rishukumar26/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Rishukumar26/leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Rishukumar26/leetcode/tree/master/0224-basic-calculator) |
 | [0415-add-strings](https://github.com/Rishukumar26/leetcode/tree/master/0415-add-strings) |
 | [1563-stone-game-v](https://github.com/Rishukumar26/leetcode/tree/master/1563-stone-game-v) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rishukumar26/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Rishukumar26/leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/Rishukumar26/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rishukumar26/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rishukumar26/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rishukumar26/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Rishukumar26/leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Rishukumar26/leetcode/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Rishukumar26/leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rishukumar26/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Rishukumar26/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Rishukumar26/leetcode/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishukumar26/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
