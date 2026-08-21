@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rishukumar26/leetcode/tree/master/0029-divide-two-integers) |
 | [0224-basic-calculator](https://github.com/Rishukumar26/leetcode/tree/master/0224-basic-calculator) |
+| [0415-add-strings](https://github.com/Rishukumar26/leetcode/tree/master/0415-add-strings) |
 | [1563-stone-game-v](https://github.com/Rishukumar26/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Rishukumar26/leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rishukumar26/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Rishukumar26/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Rishukumar26/leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Rishukumar26/leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Rishukumar26/leetcode/tree/master/0415-add-strings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Rishukumar26/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rishukumar26/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Rishukumar26/leetcode/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rishukumar26/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
