@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rishukumar26/leetcode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Rishukumar26/leetcode/tree/master/0224-basic-calculator) |
 | [0415-add-strings](https://github.com/Rishukumar26/leetcode/tree/master/0415-add-strings) |
+| [0836-rectangle-overlap](https://github.com/Rishukumar26/leetcode/tree/master/0836-rectangle-overlap) |
 | [1563-stone-game-v](https://github.com/Rishukumar26/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Rishukumar26/leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Rishukumar26/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -242,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Rishukumar26/leetcode/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Rishukumar26/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
